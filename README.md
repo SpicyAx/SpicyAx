@@ -33,24 +33,49 @@
 
 ## ◈ &nbsp;`~/about_me` &nbsp;◈
 
-</div>
+<br/>
 
-```typescript
-const DivineSpicy = {
-  name        : "Divine 𝔗 Spicy",
-  alias       : "SpicyAx",
-  location    : "🌐 Cyberspace",
-  philosophy  : "Code is art. Every line tells a story.",
-  currently   : ["Building something legendary 🚀", "Exploring AI frontiers 🤖"],
-  funFact     : "I debug at 3AM with lo-fi music 🎧",
-  contact     : {
-    instagram : "@picasso_2244",
-    telegram  : "@picasso_2244",
-    whatsapp  : "+989034332164",
-    discord   : "610542273565818883",
-  },
-};
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 〔 **Identity** 〕
+
 ```
+ ██████╗ ██╗██╗   ██╗██╗███╗   ██╗███████╗
+ ██╔══██╗██║██║   ██║██║████╗  ██║██╔════╝
+ ██║  ██║██║██║   ██║██║██╔██╗ ██║█████╗  
+ ██║  ██║██║╚██╗ ██╔╝██║██║╚██╗██║██╔══╝  
+ ██████╔╝██║ ╚████╔╝ ██║██║ ╚████║███████╗
+ ╚═════╝ ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚══════╝
+```
+
+**◈̿͟͞𝐃𝐢𝐯𝐢𝐧𝐞 𝔗 𝐒𝐩𝐢𝐜𝐲**
+`Architect of Digital Realities`
+
+</td>
+<td align="center" width="50%">
+
+### 〔 **Signal** 〕
+
+🌐 &nbsp;**Location** &nbsp;·&nbsp; Cyberspace, Earth
+⚡ &nbsp;**Status** &nbsp;·&nbsp; Always Building
+🎧 &nbsp;**Mode** &nbsp;·&nbsp; Lo-fi + Dark Room + 3AM
+🔮 &nbsp;**Philosophy** &nbsp;·&nbsp; *Code is art.*
+🚀 &nbsp;**Mission** &nbsp;·&nbsp; Build the Legendary
+🤖 &nbsp;**Obsession** &nbsp;·&nbsp; AI Frontiers
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+> ### *" I don't just write code — I architect experiences, &nbsp;sculpt systems, &nbsp;and deploy dreams. "*
+
+<br/>
+
+</div>
 
 <br/>
 
