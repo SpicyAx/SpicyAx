@@ -35,35 +35,57 @@
 
 <br/>
 
-<table>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=15&duration=4000&pause=1000&color=6d28d9&center=true&vCenter=true&width=700&lines=◈+Initializing+Identity+Protocol...;◈+Loading+Divine+%F0%9D%94%97+Spicy...;◈+Signal+Acquired.+Welcome+to+my+universe.)](https://github.com/SpicyAx)
+
+<br/>
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:1a0533&height=2&width=700" />
+</picture>
+
+<br/>
+
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td align="center" width="50%">
+<td width="55%" valign="top" align="left">
 
-### 〔 **Identity** 〕
+<br/>
 
-```
- ██████╗ ██╗██╗   ██╗██╗███╗   ██╗███████╗
- ██╔══██╗██║██║   ██║██║████╗  ██║██╔════╝
- ██║  ██║██║██║   ██║██║██╔██╗ ██║█████╗  
- ██║  ██║██║╚██╗ ██╔╝██║██║╚██╗██║██╔══╝  
- ██████╔╝██║ ╚████╔╝ ██║██║ ╚████║███████╗
- ╚═════╝ ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚══════╝
-```
+&nbsp;&nbsp;**`◈ WHO AM I?`**
 
-**◈̿͟͞𝐃𝐢𝐯𝐢𝐧𝐞 𝔗 𝐒𝐩𝐢𝐜𝐲**
-`Architect of Digital Realities`
+&nbsp;&nbsp;I'm **◈̿͟͞𝐃𝐢𝐯𝐢𝐧𝐞 𝔗 𝐒𝐩𝐢𝐜𝐲** — a digital architect who lives<br/>
+&nbsp;&nbsp;between the lines of code and the edge of chaos.<br/>
+&nbsp;&nbsp;I don't just build software — I **forge experiences**.<br/><br/>
+
+&nbsp;&nbsp;**`◈ CURRENT STATE`**
+
+&nbsp;&nbsp;🔴 &nbsp;**Online** &nbsp;·&nbsp; Somewhere in Cyberspace<br/>
+&nbsp;&nbsp;⚡ &nbsp;**Status** &nbsp;·&nbsp; Always in build mode<br/>
+&nbsp;&nbsp;🎧 &nbsp;**Vibe** &nbsp;·&nbsp; Lo-fi · Dark Room · 3AM<br/>
+&nbsp;&nbsp;🔮 &nbsp;**Belief** &nbsp;·&nbsp; *Code is the purest form of art*<br/>
+&nbsp;&nbsp;🤖 &nbsp;**Chasing** &nbsp;·&nbsp; AI Frontiers · Legendary Projects<br/><br/>
 
 </td>
-<td align="center" width="50%">
+<td width="45%" valign="middle" align="center">
 
-### 〔 **Signal** 〕
+<br/>
 
-🌐 &nbsp;**Location** &nbsp;·&nbsp; Cyberspace, Earth
-⚡ &nbsp;**Status** &nbsp;·&nbsp; Always Building
-🎧 &nbsp;**Mode** &nbsp;·&nbsp; Lo-fi + Dark Room + 3AM
-🔮 &nbsp;**Philosophy** &nbsp;·&nbsp; *Code is art.*
-🚀 &nbsp;**Mission** &nbsp;·&nbsp; Build the Legendary
-🤖 &nbsp;**Obsession** &nbsp;·&nbsp; AI Frontiers
+```
+╔═══════════════════════════╗
+║  ◈  IDENTITY CARD  ◈      ║
+╠═══════════════════════════╣
+║                           ║
+║  NAME  › Divine 𝔗 Spicy   ║
+║  ALIAS › SpicyAx          ║
+║  ROLE  › Full-Stack Arc.  ║
+║  BASE  › Cyberspace       ║
+║  LEVEL › Legendary ████░  ║
+║                           ║
+║  [ CLEARANCE : MAXIMUM ]  ║
+╚═══════════════════════════╝
+```
+
+<br/>
 
 </td>
 </tr>
@@ -71,7 +93,11 @@
 
 <br/>
 
-> ### *" I don't just write code — I architect experiences, &nbsp;sculpt systems, &nbsp;and deploy dreams. "*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=1&width=600" />
+
+<br/>
+
+> ### ✦ &nbsp;*" I don't write code. I cast spells that machines obey. "* &nbsp;✦
 
 <br/>
 
