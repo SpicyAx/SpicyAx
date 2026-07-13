@@ -214,11 +214,6 @@
         <img src="https://img.shields.io/badge/TELEGRAM-picasso__2244-0d0221?style=for-the-badge&logo=telegram&logoColor=818cf8&labelColor=1a0533" />
       </a>
     </td>
-    <td align="center">
-      <a href="https://wa.me/989034332164">
-        <img src="https://img.shields.io/badge/WHATSAPP-%2B989034332164-0d0221?style=for-the-badge&logo=whatsapp&logoColor=a78bfa&labelColor=1a0533" />
-      </a>
-    </td>
   </tr>
 </table>
 
